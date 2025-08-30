@@ -1,17 +1,31 @@
 # Stock-Revenue-Dashboard
 project for Coursera Data Analyst Capstone
-# IBM Stock Revenue Dashboard Project
+# Stock Revenue Dashboard Project
 
-## How to Use This Notebook
-1. Open Jupyter Notebook (via Anaconda or VS Code).
-2. Download and place `IBM_Stock_Revenue_Dashboard.ipynb` into a folder you can access.
-3. Open the notebook in Jupyter.
-4. Run each cell one by one (Shift + Enter).
-5. Take screenshots of:
-   - Q1 output (Tesla stock data)
-   - Q2 output (Tesla revenue data)
-   - Q3 output (GameStop stock data)
-   - Q4 output (GameStop revenue data)
-   - Q5 graph (Tesla stock vs revenue)
-   - Q6 graph (GameStop stock vs revenue)
-6. For Q7, upload the notebook file to GitHub or Watson Studio and submit the link on Coursera.
+This repository contains the final project notebook for the IBM Data Analyst Capstone Project (Coursera).
+
+## Contents
+- `proj.ipynb`: The Jupyter Notebook with solutions for Questions 1–6.
+- Screenshots of outputs (Q1–Q6).
+- Final GitHub link (Q7 submission).
+
+## Project Tasks
+1. Extract Tesla stock data using `yfinance`.
+2. Extract Tesla revenue data via web scraping.
+3. Extract GameStop stock data using `yfinance`.
+4. Extract GameStop revenue data via web scraping.
+5. Create dashboard plots for Tesla.
+6. Create dashboard plots for GameStop.
+7. Share completed notebook via GitHub.
+
+---
+
+## How to Run
+1. Clone the repository or download the notebook.
+2. Open in Jupyter Notebook.
+3. Run cells top-to-bottom to reproduce results.
+
+---
+
+### Author
+This project was completed as part of the IBM Data Analyst Professional Certificate.
